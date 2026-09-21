@@ -37,6 +37,8 @@ The context can be a paper passage, a screenshot, a concept name, or an open que
 
 ## Multiple concepts and "tie it together" requests
 
+For three or more cards, a whole topic, or extending an existing set, use the concept-curriculum skill. It handles topic mapping, shared facts, parallel writing, overview cards, a gallery index and a verification gate. The short version below is for two or three cards only.
+
 When asked for several explainers, or for a topic rather than a single term:
 
 1. Pick the concept list (one card each). Share it in one line and keep going; don't block on approval.

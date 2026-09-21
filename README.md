@@ -41,6 +41,10 @@ Ask about a whole topic and you also get **overview cards** that tie the concept
 of how they relate, a ranked *"what matters most"* table with sourced numbers, and where to look
 things up. An `index.html` links everything.
 
+For a whole course on a topic (a mapped set of cards with shared numbers, a gallery index and a
+verification gate), use the companion skill
+[concept-curriculum](https://github.com/seyonv/concept-curriculum), which builds on this one.
+
 ## Install
 
 Skills live in `~/.claude/skills/<name>/`.
