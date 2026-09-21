@@ -53,6 +53,7 @@ When asked for several explainers, or for a topic rather than a single term:
 ## Output
 
 - Default location: `./explainers/<topic-slug>/<concept-slug>.html` in the current working directory, or a path the user names.
+- **Explainers hub.** If the user's instructions name an explainers hub (a git repo with a `publish.sh`), write the card to `<hub>/<concept-slug>/<concept-slug>.html` instead. Once the done checklist passes, run `<hub>/publish.sh <concept-slug>` and give the user the live link it prints.
 - After writing, offer to open the files in a browser (`open` on macOS, `xdg-open` on Linux, `start` on Windows).
 - In chat, just list the files and flag anything uncertain. Don't repeat the card content.
 
